@@ -1,21 +1,3 @@
-# 🧠📊 Introvert-Extrovert Digital Behavior Dataset
-
-![Psychology](https://img.shields.io/badge/Field-Psychology-blueviolet)
-![Machine Learning](https://img.shields.io/badge/Use-Classification-orange)
-![Data Science](https://img.shields.io/badge/Analysis-Behavioral%20Patterns-green)
-
-> "Decoding personality through digital footprints - where psychology meets data science"
-
----
-
-## 🌟 **Dataset Highlights**
-```mermaid
-pie showTitle
-    title Dataset Composition
-    "Social Media Metrics" : 35
-    "Music Preferences" : 25
-    "Online Activity" : 25
-    "Demographics" : 15
 # Exploring the Introvert-Extrovert Behavior Dataset;
 
 This particular dataset offers a fascinating glimpse into the intricate relationship between an individual's personality traits and their digital habits. 
